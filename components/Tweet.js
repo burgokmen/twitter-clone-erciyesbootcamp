@@ -97,4 +97,4 @@ export const styles = StyleSheet.create({
     }
 })
 
-export deafault Tweet
+export default Tweet
