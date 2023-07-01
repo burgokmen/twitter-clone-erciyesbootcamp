@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <HomeScreen />
-      <StatusBar style="light" />
+      <StatusBar style="dark" />
     </View>
   );
 }
@@ -14,6 +14,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "black",
+    backgroundColor: "blue",
   },
 });

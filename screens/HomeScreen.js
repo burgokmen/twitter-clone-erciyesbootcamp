@@ -52,10 +52,10 @@ export const styles = StyleSheet.create({
     bottom: 0,
     right: 0,
     height: 70,
-    paddingLeft: 20,
-    paddingRight: 20,
-    paddingTop: 15,
-    backgroundColor: "#080808",
+    paddingLeft: 23,
+    paddingRight: 23,
+    paddingTop: 12,
+    backgroundColor: "#080804",
   },
 });
 
