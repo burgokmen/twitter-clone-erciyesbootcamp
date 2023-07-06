@@ -51,11 +51,11 @@ export const styles = StyleSheet.create({
     left: 0,
     bottom: 0,
     right: 0,
-    height: 70,
-    paddingLeft: 23,
-    paddingRight: 23,
-    paddingTop: 12,
-    backgroundColor: "#080804",
+    height: 72,
+    paddingLeft: 20,
+    paddingRight: 20,
+    paddingTop: 10,
+    backgroundColor: "#080808",
   },
 });
 
