@@ -93,26 +93,26 @@ const TweetImage = () => {
 
 export const TweetImageStyles = StyleSheet.create({
   tweetContainer: {
-    marginHorizontal: 10,
+    marginHorizontal: 8,
     flexDirection: "row",
   },
   userImage: {
-    width: 50,
-    height: 50,
-    borderRadius: 40,
+    width: 48,
+    height: 48,
+    borderRadius: 38,
   },
   tweet: {
-    marginHorizontal: 10,
+    marginHorizontal: 11,
   },
   name: {
     fontWeight: "800",
   },
   userDetails: {
     flexDirection: "row",
-    width: "64%",
+    width: "65%",
   },
   userTweet: {
-    width: "65%",
+    width: "64%",
     fontWeight: "600",
     marginVertical: 1,
     lineHeight: 20,
@@ -123,23 +123,23 @@ export const TweetImageStyles = StyleSheet.create({
   tweetIcons: {
     flexDirection: "row",
     justifyContent: "space-between",
-    width: "50%",
+    width: "52%",
     marginTop: 10,
   },
   iconContainer: {
     flexDirection: "row",
   },
   iconText: {
-    color: "white",
+    color: "grey",
     marginLeft: 5,
   },
   TweetImage: {
     flexDirection: "row",
   },
   image: {
-    width: 140,
-    height: 140,
-    borderRadius: 15,
+    width: 142,
+    height: 142,
+    borderRadius: 16,
   },
 });
 
