@@ -23,9 +23,7 @@ const Tweet = () => {
 
         <View style={styles.tweet}>
           <View style={styles.userDetails}>
-            <Text style={[styles.name, globalStyles.text]}>
-              Burhanettin Gokmen
-            </Text>
+            <Text style={[styles.name, globalStyles.text]}>Bru Gokmen</Text>
             <Text
               style={[globalStyles.text, { marginLeft: 5, fontWeight: "500" }]}
             >
@@ -40,7 +38,8 @@ const Tweet = () => {
           </View>
 
           <Text style={[styles.userTweet, globalStyles.text]}>
-            Bootcamp beni React Nativele tanistirdi...
+            Bootcamp beni React Nativele tanistirdi... ve bu tanisma sonrasi
+            gittigim Bootcamle Fullstack dev oldum
           </Text>
 
           <View style={styles.tweetIcons}>

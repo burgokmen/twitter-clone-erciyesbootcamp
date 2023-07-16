@@ -109,10 +109,10 @@ export const TweetImageStyles = StyleSheet.create({
   },
   userDetails: {
     flexDirection: "row",
-    width: "65%",
+    width: "64%",
   },
   userTweet: {
-    width: "64%",
+    width: "65%",
     fontWeight: "600",
     marginVertical: 1,
     lineHeight: 20,
@@ -122,7 +122,7 @@ export const TweetImageStyles = StyleSheet.create({
   },
   tweetIcons: {
     flexDirection: "row",
-    justifyContent: "space-between",
+    justifyContent: "space-around",
     width: "52%",
     marginTop: 10,
   },

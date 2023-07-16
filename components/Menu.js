@@ -23,7 +23,7 @@ const Menu = () => {
 export const styles = StyleSheet.create({
   menuContainer: {
     flexDirection: "row",
-    justifyContent: "space-between",
+    justifyContent: "space-around",
   },
 });
 

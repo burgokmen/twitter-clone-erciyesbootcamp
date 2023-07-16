@@ -44,7 +44,7 @@ const HomeScreen = () => {
 
 export const styles = StyleSheet.create({
   container: {
-    marginBottom: 50,
+    marginBottom: 40,
   },
   footerContainer: {
     position: "absolute",
@@ -52,9 +52,9 @@ export const styles = StyleSheet.create({
     bottom: 0,
     right: 0,
     height: 70,
-    paddingLeft: 22,
-    paddingRight: 22,
-    paddingTop: 8,
+    paddingLeft: 20,
+    paddingRight: 20,
+    paddingTop: 10,
     backgroundColor: "#080808",
   },
 });
