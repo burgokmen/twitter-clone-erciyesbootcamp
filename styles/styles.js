@@ -2,6 +2,6 @@ import { StyleSheet } from "react-native";
 
 export const globalStyles = StyleSheet.create({
   text: {
-    color: "grey",
+    color: "black",
   },
 });

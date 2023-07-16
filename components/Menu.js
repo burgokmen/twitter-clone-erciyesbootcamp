@@ -11,11 +11,11 @@ import { View, Text, StyleSheet, Image } from "react-native";
 const Menu = () => {
   return (
     <View style={styles.menuContainer}>
-      <FontAwesomeIcon icon={faHouseUser} color="white" size={25} />
-      <FontAwesomeIcon icon={faSearch} color="white" size={25} />
-      <FontAwesomeIcon icon={faMicrophone} color="white" size={25} />
-      <FontAwesomeIcon icon={faBell} color="white" size={25} />
-      <FontAwesomeIcon icon={faEnvelope} color="white" size={25} />
+      <FontAwesomeIcon icon={faHouseUser} color="blue" size={25} />
+      <FontAwesomeIcon icon={faSearch} color="blue" size={25} />
+      <FontAwesomeIcon icon={faMicrophone} color="blue" size={25} />
+      <FontAwesomeIcon icon={faBell} color="blue" size={25} />
+      <FontAwesomeIcon icon={faEnvelope} color="blue" size={25} />
     </View>
   );
 };

@@ -83,9 +83,9 @@ export const styles = StyleSheet.create({
     flexDirection: "row",
   },
   userImage: {
-    width: 50,
-    height: 50,
-    borderRadius: 40,
+    width: 60,
+    height: 60,
+    borderRadius: 45,
   },
   tweet: {
     marginHorizontal: 10,

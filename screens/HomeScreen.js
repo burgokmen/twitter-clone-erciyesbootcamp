@@ -33,6 +33,18 @@ const HomeScreen = () => {
           <Tweet />
           <Tweet />
           <TweetImage />
+          <Tweet />
+          <Tweet />
+          <TweetImage />
+          <Tweet />
+          <Tweet />
+          <TweetImage />
+          <Tweet />
+          <Tweet />
+          <TweetImage />
+          <Tweet />
+          <Tweet />
+          <TweetImage />
         </View>
       </ScrollView>
       <View style={styles.footerContainer}>
